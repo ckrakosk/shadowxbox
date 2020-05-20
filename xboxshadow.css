@@ -1,9 +1,7 @@
 .controller.xbox {
-    background: url(xbox-assets/base.svgz);
-    height: 630px;
-    width: 750px;
-    /*    margin-left: -375px;
-        margin-top: -285px;*/
+    background-image: url(https://imgur.com/YVLz68w.png);
+  -webkit-animation:colorhue;
+  animation: colorhue 2.5s linear infinite
 }
 
 .xbox.white {
