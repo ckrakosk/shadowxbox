@@ -5,7 +5,9 @@
 }
 
 .xbox.white {
-    background: url(xbox-assets/base-white.svgz);
+    background-image: url(https://imgur.com/YVLz68w.png);
+  -webkit-animation:colorhue;
+  animation: colorhue 2.5s linear infinite
 }
 
 .xbox.disconnected {
@@ -256,7 +258,9 @@
 }
 
 .xbox {
-    background: no-repeat center;
+    background-image: url(https://imgur.com/YVLz68w.png);
+  -webkit-animation:colorhue;
+  animation: colorhue 2.5s linear infinite
 }
 
 @keyframes colorhue{
