@@ -260,3 +260,8 @@
 .xbox {
     background: no-repeat center;
 }
+
+@keyframes colorhue{
+    from {-webkit-filter: hue-rotate(0deg); filter: hue-rotate(0deg);}
+    to {-webkit-filter: hue-rotate(359deg); filter: hue-rotate(359deg);}
+}
